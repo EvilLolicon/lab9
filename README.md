@@ -1,3 +1,4 @@
+![alt text](https://psv4.userapi.com/c856236/u84245934/docs/d5/531fb8203006/chrome_AqgPV5p0Yv.png?extra=1L_RQsKfBR7L4xC6eljCa4jwFmxgAxNuK6rh_biMYpvGJl8YCFd2Ni-uAWVT1e83dljiAzQ0GYSL1Hl4COWX8Q4c2_SoSY0iuFZxcQAvBuaVD0Hy_HFU5WW-E5hFcYQCgLDbBlkoY5NCMSisve7r-Gn6)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
